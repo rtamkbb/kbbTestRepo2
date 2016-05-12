@@ -6,3 +6,4 @@ line of code 5
 
 add uch module to srp
 omniture
+bug fix 05122
