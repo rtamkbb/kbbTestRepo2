@@ -4,3 +4,4 @@ line of code 3
 line of code 4
 line of code 5
 clean out jquery
+jquery code review changes
