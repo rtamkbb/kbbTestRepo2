@@ -8,3 +8,4 @@ add uch module to srp
 omniture
 bug fix 05122
 code review changes
+clean out jquery
