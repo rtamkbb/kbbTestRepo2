@@ -5,3 +5,4 @@ line of code 4
 line of code 5
 
 clean out jquery
+jquery bug fix
