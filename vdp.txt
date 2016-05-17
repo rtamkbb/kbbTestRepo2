@@ -9,3 +9,4 @@ clean out jquery
 code review changes jquery
 footer update again
 more footer work
+footer change 2
