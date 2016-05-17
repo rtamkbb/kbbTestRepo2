@@ -4,5 +4,8 @@ line of code 3
 line of code 4
 line of code 5
 
+update footer
+footer update again
 clean out jquery
 jquery bug fix
+more footer work

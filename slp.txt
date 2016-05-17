@@ -4,6 +4,8 @@ line of code 3
 line of code 4
 line of code 5
 
+update footer
+footer update again
 add uch module to slp
 omniture
 birf
@@ -11,3 +13,4 @@ bug fix 05121
 code review changes
 fox typo
 jquery bug fix
+footer change 2
