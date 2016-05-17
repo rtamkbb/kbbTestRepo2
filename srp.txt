@@ -13,3 +13,4 @@ omniture
 bug fix 05122
 code review changes
 clean out jquery
+change boosting values on srp
